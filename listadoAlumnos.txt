@@ -1,0 +1,4 @@
+Pedro Sanchez, 1232, 16, A, Geografia, 7, Matematica, 9, Biologia, 6
+Lucas Gutierrez, 15742, 15, B, Geografia, 5, Matematica, 8, Biologia, 9
+Monica Peix, 1312, 14, A, Geografia, 9, Matematica, 9, Biologia, 6
+Paola Garcia, 4325, 16, C, Geografia, 7, Matematica, 10, Biologia, 5

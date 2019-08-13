@@ -1,0 +1,5 @@
+Geografia, 5
+Matematica, 8
+Contabilidad, 3
+Biologia, 5
+Lengua, 10
